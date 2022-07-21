@@ -1,8 +1,6 @@
-### Hi there I'm Lorenah 👋
-
-<h3 align="center">I'm a Software Engineer and Ardent Student!! </h3>
+### Hi there I'm Lorenah 👋 I'm a Software Engineer and Ardent Student!! </h3>
 <p align="center">
-<img  alt ="Coding" width="400" src="[https://tenor.com/search/programming-gifs](https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif)">
+<img align="center"> alt ="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
 - 🔭 I’m currently working at Moringa School.
 - 🌱 I’m currently learning Data Science.
@@ -27,5 +25,5 @@
 <img alt="nodejs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></p>
 
 ## Connect with me:
-<p align="left"> <a href="https://github.com/Skylar-Lorena"></a>
-  <a href="https://www.linkedin.com/in/lorenah-m-859883167/"></a></p>
+<p align="left"> <a href="https://github.com/Skylar-Lorena"><img alt="github" width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>
+  <a href="https://www.linkedin.com/in/lorenah-m-859883167/"><img alt="linkedin" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a></p>
