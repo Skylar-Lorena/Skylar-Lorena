@@ -1,6 +1,6 @@
 ### Hi there I'm Lorenah 👋 I'm a Software Engineer and Ardent Student!! </h3>
 <p align="center">
-<img align="center"> alt ="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
+<img align="center" alt ="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
 - 🔭 I’m currently working at Moringa School.
 - 🌱 I’m currently learning Data Science.
