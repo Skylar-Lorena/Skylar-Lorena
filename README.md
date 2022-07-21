@@ -1,14 +1,15 @@
 ### Hi there I'm Lorenah 👋, a Software Engineer and Ardent Student!! 
-<img align="left" alt ="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
+<img align="center" alt ="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
-<ul align= "right" >
+<ul align= "center" >
   <li>- 🔭 I’m currently working at Moringa School.</li>
  <li>- 📫 How to reach me: lorayne911@gmail.com </li>
  <li>- ⚡ Fun fact: I Sing, Rap and Paint</li>
 </ul>
   
 ## Languages and Tools
-<p align="left"><img alt="Visual Studio Code" width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
+<p align="left">
+<img alt="Visual Studio Code" width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
 <img alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
 <img alt="CSS3" width="40" height="40" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png">
 <img alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -22,7 +23,7 @@
 <img alt="nodejs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></p>
 
 ## Connect with me:
-<h3 align="left"> <a href="https://github.com/Skylar-Lorena"><img alt="github"height="60px" src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.jpg"></a>
+<h3 align="center"> <a href="https://github.com/Skylar-Lorena"><img alt="github"height="60px" src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.jpg"></a>
   <a href="https://twitter.com/Skylar_Lorena"><img alt="linkedin" height="60px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png"></a>
   <a href="https://www.linkedin.com/in/lorenah-m-859883167/"><img alt="linkedin" width="89px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg"></a>
   </h3>
