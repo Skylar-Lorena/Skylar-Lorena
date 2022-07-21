@@ -1,10 +1,11 @@
 ### Hi there I'm Lorenah 👋, a Software Engineer and Ardent Student!! 
 <img align="left" alt ="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
-<h3 align= "right" >- 🔭 I’m currently working at Moringa School.
-- 📫 How to reach me: lorayne911@gmail.com 
-- ⚡ Fun fact: I Sing, Rap and Paint
-</h3>
+<ul align= "right" >
+  <li>- 🔭 I’m currently working at Moringa School.</li>
+ <li>- 📫 How to reach me: lorayne911@gmail.com </li>
+ <li>- ⚡ Fun fact: I Sing, Rap and Paint</li>
+</ul>
   
 ## Languages and Tools
 <p align="left"><img alt="Visual Studio Code" width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
