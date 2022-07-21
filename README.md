@@ -1,6 +1,5 @@
 ### Hi there I'm Lorenah 👋, a Software Engineer and Ardent Student!! 
-<p align="center">
-<img align="left" alt ="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif"></p>
+<img align="left" alt ="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
 <p align= "right" >- 🔭 I’m currently working at Moringa School.
 - 📫 How to reach me: lorayne911@gmail.com 
