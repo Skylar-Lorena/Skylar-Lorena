@@ -1,14 +1,11 @@
-### Hi there I'm Lorenah 👋 I'm a Software Engineer and Ardent Student!! </h3>
+### Hi there I'm Lorenah 👋, a Software Engineer and Ardent Student!! 
 <p align="center">
 <img align="center" alt ="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
 - 🔭 I’m currently working at Moringa School.
-- 🌱 I’m currently learning Data Science.
-- 👯 I’m looking to collaborate on Android and Web Apps
-- 💬 Ask me about Java Android apps, Ruby, ReactJS, Angular
 - 📫 How to reach me: lorayne911@gmail.com or sautiasali@protonmail.ch
-- 😄 Pronouns: .She/Her
 - ⚡ Fun fact: I Sing, Rap and Paint
+</p>
   
 ## Languages and Tools
 <p align="left"><img alt="Visual Studio Code" width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
