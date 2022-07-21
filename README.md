@@ -1,10 +1,10 @@
 ### Hi there I'm Lorenah 👋, a Software Engineer and Ardent Student!! 
 <img align="left" alt ="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
-<p align= "right" >- 🔭 I’m currently working at Moringa School.
+<h3 align= "right" >- 🔭 I’m currently working at Moringa School.
 - 📫 How to reach me: lorayne911@gmail.com 
 - ⚡ Fun fact: I Sing, Rap and Paint
-</p>
+</h3>
   
 ## Languages and Tools
 <p align="left"><img alt="Visual Studio Code" width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
@@ -21,7 +21,7 @@
 <img alt="nodejs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></p>
 
 ## Connect with me:
-<p align="left"> <a href="https://github.com/Skylar-Lorena"><img alt="github"height="60px" src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.jpg"></a>
+<h3 align="left"> <a href="https://github.com/Skylar-Lorena"><img alt="github"height="60px" src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.jpg"></a>
   <a href="https://twitter.com/Skylar_Lorena"><img alt="linkedin" height="60px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png"></a>
   <a href="https://www.linkedin.com/in/lorenah-m-859883167/"><img alt="linkedin" width="89px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg"></a>
-  </p>
+  </h3>
