@@ -3,7 +3,7 @@
 <img align="center" alt ="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
 - 🔭 I’m currently working at Moringa School.
-- 📫 How to reach me: lorayne911@gmail.com or sautiasali@protonmail.ch
+- 📫 How to reach me: lorayne911@gmail.com 
 - ⚡ Fun fact: I Sing, Rap and Paint
 </p>
   
