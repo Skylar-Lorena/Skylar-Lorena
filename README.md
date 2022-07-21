@@ -8,7 +8,7 @@
 </ul>
   
 ## Languages and Tools
-<p align="left">
+<p align="center">
 <img alt="Visual Studio Code" width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
 <img alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
 <img alt="CSS3" width="40" height="40" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png">
