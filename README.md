@@ -1,7 +1,7 @@
 ### Hi there I'm Lorenah 👋, a Software Engineer and Ardent Student!! 
 <img align="center" alt ="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
-<ul align= "center" >
+<ul >
   <li>- 🔭 I’m currently working at Moringa School.</li>
  <li>- 📫 How to reach me: lorayne911@gmail.com </li>
  <li>- ⚡ Fun fact: I Sing, Rap and Paint</li>
