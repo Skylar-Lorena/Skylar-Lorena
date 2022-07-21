@@ -23,4 +23,4 @@
 
 ## Connect with me:
 <p align="left"> <a href="https://github.com/Skylar-Lorena"><img alt="github"height="60px" src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.jpg"></a>
-  <a href="https://www.linkedin.com/in/lorenah-m-859883167/"><img alt="linkedin" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a></p>
+  <a href="https://www.linkedin.com/in/lorenah-m-859883167/"><img alt="linkedin" width="32px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg"></a></p>
