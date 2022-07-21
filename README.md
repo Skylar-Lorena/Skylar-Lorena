@@ -22,5 +22,5 @@
 <img alt="nodejs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></p>
 
 ## Connect with me:
-<p align="left"> <a href="https://github.com/Skylar-Lorena"><img alt="github" width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>
+<p align="left"> <a href="https://github.com/Skylar-Lorena"><img alt="github" width="30px" src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.jpg"></a>
   <a href="https://www.linkedin.com/in/lorenah-m-859883167/"><img alt="linkedin" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a></p>
