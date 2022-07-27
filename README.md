@@ -7,11 +7,11 @@
 ### A bit about me:!
 
 
-- Nationality: [download](https://user-images.githubusercontent.com/64461513/181202842-eda827b6-0984-41a8-a567-9ad0188a3ae0.png) /🇪![download](https://user-images.githubusercontent.com/64461513/181203078-bef0be93-2f86-4006-b176-bcaddd9ea78e.jpg)
+- Nationality:![istockphoto-1195056317-612x612](https://user-images.githubusercontent.com/64461513/181206061-4075c53f-3945-451b-b1e3-c2e9a236382b.jpg)
+![download](https://user-images.githubusercontent.com/64461513/181206127-190cbb2b-e50c-4a30-8862-0bad1a1bbe58.png)
 
 - Personal interests: ⚽ 🥊 💪🏽 🏕 🏍 💻 🛫
 - ⚡ Fun fact: I Sing, Rap and Paint
-- Countries I've visited:  [download](https://user-images.githubusercontent.com/64461513/181202842-eda827b6-0984-41a8-a567-9ad0188a3ae0.png) /🇪![download](https://user-images.githubusercontent.com/64461513/181203078-bef0be93-2f86-4006-b176-bcaddd9ea78e.jpg)
 - Current location: 📍 Nairobi, Kenya
 
 🌎 Check my [portfolio](skylar-lorena.github.io/skyportfolio/)
@@ -37,12 +37,13 @@ Feel free to reach out and see what I'm up to now 💬
 <img alt="postman" width="40" height="40" 
 <img alt="nodejs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></p>
 
-[![Skylar-Lorena's github stats](https://github-readme-stats.vercel.app/api?username=tbakerx&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Skylar-Lorena)
+[![Skylar-Lorena's github stats](https://github-readme-stats.vercel.app/api?username=Skylar-Lorena&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Skylar-Lorena)
 
 <div style="padding: 25px 0;">
 
 Connect with me:
-
+  
+  <div style="padding: 25px 0;">
     <a href="https://twitter.com/Skylar_Lorena" style="padding: 24px;">
     <img src="https://github.com/Skylar-Lorena/Skylar-Lorena/blob/main/assets/twitter-green.png" alt="Follow me on twitter"  width="24" height="24">
     </a>
