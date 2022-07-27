@@ -1,11 +1,26 @@
-### Hi there I'm Lorenah 👋, a Software Engineer and Ardent Student!! 
-<img align="center" alt ="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
+# Hey there, feel free to check out what I've been up to!
 
-<ul >
-  <li>- 🔭 I’m currently working at Moringa School.</li>
- <li>- 📫 How to reach me: lorayne911@gmail.com </li>
- <li>- ⚡ Fun fact: I Sing, Rap and Paint</li>
-</ul>
+## Android/Full Stack Software Engineer
+
+💻 I'm currently working at [Moringa School](https://moringaschool.com/courses/software-engineering-course-online/?gclid=Cj0KCQjwxIOXBhCrARIsAL1QFCY3rY5hJhm0xHKFBCpP5u549ZXWd6W7eLh_HjdMsDwW9uy-uMsFxosaAtMpEALw_wcB), striving to connect our African people to the future they envision for themselves⚡️
+
+### A bit about me:!
+
+
+- Nationality: [download](https://user-images.githubusercontent.com/64461513/181202842-eda827b6-0984-41a8-a567-9ad0188a3ae0.png) /🇪![download](https://user-images.githubusercontent.com/64461513/181203078-bef0be93-2f86-4006-b176-bcaddd9ea78e.jpg)
+
+- Personal interests: ⚽ 🥊 💪🏽 🏕 🏍 💻 🛫
+- ⚡ Fun fact: I Sing, Rap and Paint
+- Countries I've visited:  [download](https://user-images.githubusercontent.com/64461513/181202842-eda827b6-0984-41a8-a567-9ad0188a3ae0.png) /🇪![download](https://user-images.githubusercontent.com/64461513/181203078-bef0be93-2f86-4006-b176-bcaddd9ea78e.jpg)
+- Current location: 📍 Nairobi, Kenya
+
+🌎 Check my [portfolio](skylar-lorena.github.io/skyportfolio/)
+
+I'm always working on something, and often too excited about it to stop and update my portfolio
+
+Feel free to reach out and see what I'm up to now 💬
+
+<img align="center" alt ="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
   
 ## Languages and Tools
 <p align="center">
@@ -22,8 +37,17 @@
 <img alt="postman" width="40" height="40" 
 <img alt="nodejs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></p>
 
-## Connect with me:
-<h3 align="center"> <a href="https://github.com/Skylar-Lorena"><img alt="github"height="60px" src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.jpg"></a>
-  <a href="https://twitter.com/Skylar_Lorena"><img alt="linkedin" height="60px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png"></a>
-  <a href="https://www.linkedin.com/in/lorenah-m-859883167/"><img alt="linkedin" width="89px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg"></a>
-  </h3>
+[![Skylar-Lorena's github stats](https://github-readme-stats.vercel.app/api?username=tbakerx&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Skylar-Lorena)
+
+<div style="padding: 25px 0;">
+
+Connect with me:
+
+    <a href="https://twitter.com/Skylar_Lorena" style="padding: 24px;">
+    <img src="https://github.com/Skylar-Lorena/Skylar-Lorena/blob/main/assets/twitter-green.png" alt="Follow me on twitter"  width="24" height="24">
+    </a>
+     <a href="https://www.linkedin.com/in/lorenah-m-859883167/" style="padding: 8px; width: 24px; height: 24px;">
+        <img src="https://github.com/Skylar-Lorena/Skylar-Lorena/blob/main/assets/linkedin-green.png" alt="Connect on Linkedin" width="24" height="24">
+    </a>
+</div>
+
