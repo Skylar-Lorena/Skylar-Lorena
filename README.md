@@ -6,7 +6,7 @@
 
 ### A bit about me:
 
-- Nationality: !![ke](https://user-images.githubusercontent.com/64461513/181206872-c48aa32c-8dce-4d1c-b96d-14f43edd967d.svg) ![tz](https://user-images.githubusercontent.com/64461513/181207032-4ed38da8-d4af-4d3b-b08b-3f0483cebc2d.svg)
+- Nationality: !![ke](https://user-images.githubusercontent.com/64461513/181206872-c48aa32c-8dce-4d1c-b96d-14f43edd967d.svg width = 20px) ![tz](https://user-images.githubusercontent.com/64461513/181207032-4ed38da8-d4af-4d3b-b08b-3f0483cebc2d.svg)
 - Personal interests: ⚽ 🥊 💪🏽 🏕 🏍 💻 🛫
 - ⚡ Fun fact: I Sing, Rap and Paint
 - Current location: 📍 Nairobi, Kenya
