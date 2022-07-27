@@ -4,12 +4,9 @@
 
 💻 I'm currently working at [Moringa School](https://moringaschool.com/courses/software-engineering-course-online/?gclid=Cj0KCQjwxIOXBhCrARIsAL1QFCY3rY5hJhm0xHKFBCpP5u549ZXWd6W7eLh_HjdMsDwW9uy-uMsFxosaAtMpEALw_wcB), striving to connect our African people to the future they envision for themselves⚡️
 
-### A bit about me:!
+### A bit about me:
 
-
-- Nationality:![istockphoto-1195056317-612x612](https://user-images.githubusercontent.com/64461513/181206061-4075c53f-3945-451b-b1e3-c2e9a236382b.jpg)
-![download](https://user-images.githubusercontent.com/64461513/181206127-190cbb2b-e50c-4a30-8862-0bad1a1bbe58.png width= "20%" )
-
+- Nationality: !![ke](https://user-images.githubusercontent.com/64461513/181206872-c48aa32c-8dce-4d1c-b96d-14f43edd967d.svg) ![tz](https://user-images.githubusercontent.com/64461513/181207032-4ed38da8-d4af-4d3b-b08b-3f0483cebc2d.svg)
 - Personal interests: ⚽ 🥊 💪🏽 🏕 🏍 💻 🛫
 - ⚡ Fun fact: I Sing, Rap and Paint
 - Current location: 📍 Nairobi, Kenya
@@ -45,10 +42,9 @@ Connect with me:
   
   <div style="padding: 25px 0;">
     <a href="https://twitter.com/Skylar_Lorena" style="padding: 24px;">
-    <img src="https://github.com/Skylar-Lorena/Skylar-Lorena/blob/main/assets/twitter-green.png" alt="Follow me on twitter"  width="24" height="24">
+  <img src="https://github.com/tbakerx/tbakerx/blob/main/assets/twitter-green.png" alt="Follow me on twitter"  width="24" height="24">
     </a>
      <a href="https://www.linkedin.com/in/lorenah-m-859883167/" style="padding: 8px; width: 24px; height: 24px;">
-        <img src="https://github.com/Skylar-Lorena/Skylar-Lorena/blob/main/assets/linkedin-green.png" alt="Connect on Linkedin" width="24" height="24">
+       <img src="https://github.com/tbakerx/tbakerx/blob/main/assets/linkedin-green.png" alt="Connect on Linkedin" width="24" height="24">
     </a>
 </div>
-
