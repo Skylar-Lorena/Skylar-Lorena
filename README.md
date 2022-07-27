@@ -8,7 +8,7 @@
 
 
 - Nationality:![istockphoto-1195056317-612x612](https://user-images.githubusercontent.com/64461513/181206061-4075c53f-3945-451b-b1e3-c2e9a236382b.jpg)
-![download](https://user-images.githubusercontent.com/64461513/181206127-190cbb2b-e50c-4a30-8862-0bad1a1bbe58.png)
+![download](https://user-images.githubusercontent.com/64461513/181206127-190cbb2b-e50c-4a30-8862-0bad1a1bbe58.png width= "20%" )
 
 - Personal interests: ⚽ 🥊 💪🏽 🏕 🏍 💻 🛫
 - ⚡ Fun fact: I Sing, Rap and Paint
