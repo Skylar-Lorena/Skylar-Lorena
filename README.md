@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I Sing, Rap and Paint
 - Current location: 📍 Nairobi, Kenya
 
-🌎 Check out my [portfolio](https://skylar-lorena.github.io/SkyPortfolio/)
+🌎 Check out my [portfolio](https://my-react-resume.vercel.app/)
 
 I'm always working on something, and often too excited about it to stop and update my portfolio
 
