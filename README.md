@@ -34,7 +34,8 @@ Feel free to reach out and see what I'm up to now 💬
 <img alt="postman" width="40" height="40" 
 <img alt="nodejs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></p>
 
-[![Skylar-Lorena's github stats](https://github-readme-stats?username=Skylar-Lorena&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Skylar-Lorena)
+
+[![Skylar-Lorena's github stats](https://github-readme-stats.vercel.app/api?username=Skylar-Lorena&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Skylar-Lorena)
 
 <div style="padding: 25px 0;">
 
