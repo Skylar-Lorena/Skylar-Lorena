@@ -8,7 +8,7 @@
 
 - Nationality: Kenya/Tanzania
 - Personal interests: ⚽ 🥊 💪🏽 🏕 🏍 💻 🛫
-- ⚡ Fun fact: I Sing, Rap and Paint
+- ⚡ Fun fact: I Sing, Rap and Paint and I'm a Part-Time Rock Show Radio Host 
 - Current location: 📍 Nairobi, Kenya
 
 🌎 Check out my [portfolio](https://my-react-resume.vercel.app/)
