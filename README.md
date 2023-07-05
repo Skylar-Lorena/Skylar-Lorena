@@ -6,7 +6,7 @@
 
 ### A bit about me:
 
-- Nationality: Kenyan/Tanzanian
+- Nationality: Kenya/Tanzania
 - Personal interests: ⚽ 🥊 💪🏽 🏕 🏍 💻 🛫
 - ⚡ Fun fact: I Sing, Rap and Paint
 - Current location: 📍 Nairobi, Kenya
